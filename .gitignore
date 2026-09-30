@@ -1,0 +1,14 @@
+node_modules
+.vercel
+.output
+dist
+.nitro
+.tanstack
+.grok
+artifacts
+screenshots
+*.log
+.env
+.env.*
+public/audio/*.mp3
+.DS_Store
